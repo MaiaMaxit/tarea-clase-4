@@ -1,0 +1,28 @@
+h1{
+    font-family: Arial;
+    color: blueviolet;
+}
+
+h2{
+    font-family: Helvetica;
+    color: palevioletred;
+}
+
+h4{
+    color:bisque;
+}
+
+ul{
+    font-weight: normal;
+    color: gray;
+}
+
+ol{
+    font-weight: normal;
+    color: gray;
+}
+
+p{
+    font-weight: lighter;
+    font-style: italic;
+}
